@@ -1,0 +1,7 @@
+D:\Workspace\C#\FirstCSharp\FirstCSharp\bin\Debug\FirstCSharp.exe.config
+D:\Workspace\C#\FirstCSharp\FirstCSharp\bin\Debug\FirstCSharp.exe
+D:\Workspace\C#\FirstCSharp\FirstCSharp\bin\Debug\FirstCSharp.pdb
+D:\Workspace\C#\FirstCSharp\FirstCSharp\obj\Debug\FirstCSharp.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\FirstCSharp\FirstCSharp\obj\Debug\FirstCSharp.exe
+D:\Workspace\C#\FirstCSharp\FirstCSharp\obj\Debug\FirstCSharp.pdb
+D:\Workspace\C#\FirstCSharp\FirstCSharp\obj\Debug\FirstCSharp.csproj.AssemblyReference.cache

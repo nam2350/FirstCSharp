@@ -1,0 +1,7 @@
+D:\Workspace\C#\FirstCSharp\008_Data1\bin\Debug\008_Data1.exe.config
+D:\Workspace\C#\FirstCSharp\008_Data1\bin\Debug\008_Data1.exe
+D:\Workspace\C#\FirstCSharp\008_Data1\bin\Debug\008_Data1.pdb
+D:\Workspace\C#\FirstCSharp\008_Data1\obj\Debug\008_Data1.csproj.AssemblyReference.cache
+D:\Workspace\C#\FirstCSharp\008_Data1\obj\Debug\008_Data1.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\FirstCSharp\008_Data1\obj\Debug\008_Data1.exe
+D:\Workspace\C#\FirstCSharp\008_Data1\obj\Debug\008_Data1.pdb

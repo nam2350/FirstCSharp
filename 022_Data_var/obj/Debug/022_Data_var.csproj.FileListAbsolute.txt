@@ -1,0 +1,6 @@
+D:\Workspace\C#\FirstCSharp\022_Data_var\bin\Debug\022_Data_var.exe.config
+D:\Workspace\C#\FirstCSharp\022_Data_var\bin\Debug\022_Data_var.exe
+D:\Workspace\C#\FirstCSharp\022_Data_var\bin\Debug\022_Data_var.pdb
+D:\Workspace\C#\FirstCSharp\022_Data_var\obj\Debug\022_Data_var.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\FirstCSharp\022_Data_var\obj\Debug\022_Data_var.exe
+D:\Workspace\C#\FirstCSharp\022_Data_var\obj\Debug\022_Data_var.pdb

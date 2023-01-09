@@ -1,0 +1,6 @@
+D:\Workspace\C#\FirstCSharp\002_HelloWorld\bin\Debug\002_HelloWorld.exe.config
+D:\Workspace\C#\FirstCSharp\002_HelloWorld\bin\Debug\002_HelloWorld.exe
+D:\Workspace\C#\FirstCSharp\002_HelloWorld\bin\Debug\002_HelloWorld.pdb
+D:\Workspace\C#\FirstCSharp\002_HelloWorld\obj\Debug\002_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\FirstCSharp\002_HelloWorld\obj\Debug\002_HelloWorld.exe
+D:\Workspace\C#\FirstCSharp\002_HelloWorld\obj\Debug\002_HelloWorld.pdb
